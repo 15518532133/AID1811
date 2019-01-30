@@ -22,5 +22,3 @@ print(s)
 
 s = re.subn(r'\s+','##',"hello world  nihao Kitty",2)
 print(s)
-
-#####
